@@ -1,4 +1,5 @@
 ### Team B10
+Graded: 16/20
 - Graphics View & Behaviour: Rio Evrard
 - Text View & Comamnds: Antoine Bauer
 - Pathfinder & UI: Kerem Okyay
