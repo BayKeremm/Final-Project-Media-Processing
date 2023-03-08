@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/qtlogo.jpg</file>
+
+        <file>images/alive_homer.png</file>
+        <file>images/patrik.png</file>
+        <file>images/moving_homer.png</file>
+        <file>images/healing_homer.png</file>
+        <file>images/fight_homer.png</file>
+        <file>images/poisened_homer.png</file>
+        <file>images/won_homer.png</file>
+        <file>images/dead_homer.png</file>
+
+        <file>images/alive_sideshow_bob.png</file>
+        <file>images/moving_sideshow_bob.png</file>
+        <file>images/dead_sideshow_bob.png</file>
+
+        <file>images/alive_lucille.png</file>
+        <file>images/dead_lucille.png</file>
+
+        <file>images/full_duff_beer.png</file>
+        <file>images/empty_duff_beer.png</file>
+
+        <file>images/alive_fat_tony.png</file>
+        <file>images/dead_fat_tony.png</file>
+
+        <file>images/welcome.png</file>
+
+        <file>images/worldmap.png</file>
+        <file>images/worldmap4.png</file>
+        <file>images/maze1.png</file>
+        <file>images/maze2.png</file>
+        <file>images/maze3.png</file>
+        <file>images/m1.BMP</file>
+        <file>images/m2.BMP</file>
+        <file>images/m3.BMP</file>
+        <file>images/m4.BMP</file>
+        <file>images/m5.BMP</file>
+    </qresource>
+</RCC>
